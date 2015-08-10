@@ -23,7 +23,7 @@
                 rotating:   3,
                 duration:   6,
                 fade:       2,
-                overlay:    "images/pattern.png"
+                
             }
             
             $.extend( options, settings );
